@@ -21,7 +21,7 @@
 
 ### Evidence of Work
 
-- GitHub repository link: [Insert Repository Link]
+- GitHub repository link: [https://github.com/BiBicreator/ICT111-RSUROOKIE-MVP.git]
 - Screenshot: Repository folder structure and GitHub Issues
 - File created:
   - README.md
