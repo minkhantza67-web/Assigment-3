@@ -4,38 +4,39 @@
 
 ### What We Completed
 
-1. Created the GitHub repository for the semester-long MVP project.
-2. Assigned team roles and responsibilities.
-3. Prepared the README file, project folder structure, and initial IT venture idea log.
+1. Created the GitHub repository and organized the required folder structure.
+2. Assigned team roles and responsibilities for the semester project.
+3. Prepared the README file, team profile, idea log, and selected RSU Campus Buddy as the primary project idea.
 
 ### What We Learned
 
-1. How to create and manage a GitHub repository.
-2. The importance of project documentation and version control.
-3. How to identify a real-world problem and turn it into an IT venture idea.
+1. How to create and manage a GitHub repository for project collaboration.
+2. The importance of documentation, version control, and project planning.
+3. How to identify real user problems and develop potential IT venture solutions.
 
 ### Problems or Difficulties
 
-1. Understanding GitHub repository setup and folder organization.
-2. Selecting the most feasible IT venture idea among several options.
+1. Choosing the most feasible project idea among several possible concepts.
+2. Understanding GitHub Issues, repository management, and commit workflows.
 
 ### Evidence of Work
 
 - GitHub repository link: [Insert Repository Link]
-- Screenshot: Repository structure screenshot
+- Screenshot: Repository folder structure and GitHub Issues
 - File created:
   - README.md
-  - team-profile.md
-  - idea-log.md
-  - weekly-logbook.md
+  - docs/team-profile.md
+  - docs/idea-log.md
+  - docs/weekly-logbook.md
 - Commit link: [Insert Commit Link]
 
 ### Decision Made This Week
 
-The team decided to develop **RSU Campus Buddy**, an AI-powered campus navigation and information system that uses image recognition to identify campus buildings and provide location guidance.
+The team decided to develop RSU Campus Buddy, a Smart Campus Chatbot for Student Services with Image Recognition. The system will help students identify campus buildings and instantly access information about services, facilities, student clubs, operating hours, and campus regulations through an AI-powered chatbot.
 
 ### Plan for Next Week
 
-1. Conduct opportunity scanning and research campus navigation challenges faced by students.
-2. Collect feedback from potential users through surveys or interviews.
-3. Refine the project idea and define core MVP features.
+1. Conduct opportunity scanning related to campus navigation and student service accessibility.
+2. Gather feedback from students through surveys and interviews.
+3. Identify the most important user problems and define the core features of the Minimum Viable Product (MVP).
+4. Begin creating initial user flow and wireframe designs for the system.
