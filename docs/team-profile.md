@@ -1,65 +1,31 @@
-# RSU Campus Buddy
+# Team Profile
 
-## Course Information
-Course Code: ICT111
-Course Name: Introduction to Information Technology
-Instructor: Dr. Herison Surbakti
-Project Type: 14-Labs Continuous IT Startup MVP Development
-
-## Team Name
-Campus Innovators
+## Team Name - RSUROOKIE
 
 ## Team Members and Roles
 
 | Student ID | Name | Role | Main Responsibility |
 |---|---|---|---|
 | 6705057 | Khin Zu Zu Oo| Product Lead + Technical Lead| Defines product vision, manages prototyping, and ensures technical feasibility |
-| 6709729 | Min Khant Zaw| Documentation Lead + Validation Lead| Manage respository and system development |
-| 6709650 | Phyo Min Khant | UX/UI Lead  | Define problem and target users |
+| 6709729 | Min Khant Zaw| Documentation Lead + Validation Lead| Conducts customer discovery, gathers evidence and metrics, and maintains README, weekly logbook, report files, and final submission package. |
+| 6709650 | Phyo Min Khant | UX/UI Lead  | Designs wireframes, user flow, and interface screens. |
 
-## Initial Problem Area
+## Team Skills Inventory
+| Member | Technical Skills | Design Skills | Business/Communication Skills | 
+|---|---|---|---|
+|Khin Zu Zu Oo|HTML, CSS, JavaScript, GitHub, Basic Database Design, System Analysis|Basic Wireframing, Canva, Figma|Project Planning, Problem Analysis, Leadership, Presentation, Team Coordination|
+|Min Khant Zaw|Microsoft Word, Google Docs, Google Forms, Excel, GitHub Basics|Canva|Report Writing, User Interviews, Survey Design, Research, Communication|
+|Phyo Min Khant|HTML/CSS Basics, Figma, Wireframing Tools|UI Design, UX Design, Wireframing, Prototyping, Canva|Creativity, Presentation, User Empathy|
 
-Many new students and visitors struggle to locate buildings, classrooms, offices, and facilities on the RSU campus. Existing maps are often difficult to understand and require manual searching.
+## Team Working Agreement
 
-## Target Users
+1.Meeting schedule: Every Friday after class and additional online meetings when necessary.
 
-- New students
-- International students
-- Campus visitors
-- University staff
+2.Communication channel: LINE Group and Microsoft Teams.
 
-## Initial IT Venture Direction
+3.File naming rule: Use lowercase letters with hyphens (e.g., weekly-logbook.md, team-profile.md).
 
-An AI-powered campus assistant that allows users to upload a photo of a building or location and instantly receive information, navigation guidance, and facility details.
+4.GitHub commit rule: Commit after completing each task with a clear and meaningful commit message.
 
-## Technology Possibility
+5.Conflict resolution rule: Discuss issues respectfully within the team. If no agreement is reached, decisions will be made by majority vote.
 
-- Web Application
-- AI-assisted Image Recognition
-- Cloud Database
-- Interactive Campus Map
-- Chatbot Assistant
-
-## Repository Structure
-
-- docs: project documentation
-- prototype: system prototype files
-- data: campus location data
-- finance: project financial planning
-- diagrams: system diagrams and wireframes
-- screenshots: project evidence
-- pitch: presentation materials
-
-## Weekly Progress Log
-
-| Lab | Main Activity | Output | Status |
-|------|------|------|------|
-| Lab 1 | Lab setup and idea log | Repository and documentation | Completed |
-
-## Current Status
-
-The repository has been created and organized according to course requirements. Initial project documentation and venture ideas have been prepared. Team roles have been assigned and project direction has been established.
-
-## Next Step
-
-Conduct opportunity scanning and validate student navigation problems through surveys and interviews.
