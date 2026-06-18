@@ -40,3 +40,28 @@ The team decided to develop RSU Campus Buddy, a Smart Campus Chatbot for Student
 2. Gather feedback from students through surveys and interviews.
 3. Identify the most important user problems and define the core features of the Minimum Viable Product (MVP).
 4. Begin creating initial user flow and wireframe designs for the system.
+
+## Lab 02: IT Opportunity Scanning
+### What We Completed
+1. Reviewed and analyzed three project ideas from Lab 1.
+2. Conducted opportunity scanning and evaluated potential IT venture opportunities using NUF scoring.
+3. Selected RSU Campus Buddy as the semester project and updated project documentation.
+### Selected Opportunity
+RSU Campus Buddy (Smart Campus Chatbot for Student Services with Image Recognition)
+### Why We Selected It
+The team evaluated several opportunities using the NUF (New, Useful, Feasible) framework. RSU Campus Buddy received the highest score because it solves a real problem experienced by students, provides a useful campus information service, and can be developed as a web-based MVP using available technologies within the semester timeframe.
+
+### What We Rejected
+Student Roommate Matching & Housing Platform was not selected because it requires more complex matching logic, larger amounts of user data, and additional validation compared to the selected project.
+### What We Learned
+1. How to identify opportunities based on real user problems rather than technology trends.
+2. How to compare ideas objectively using NUF scoring.
+3. The importance of selecting a project that is both useful and feasible to develop within the semester.
+### Evidence of Work
+- Opportunity scan file: docs/opportunity-scan.md
+- NUF scoring file: data/opportunity-scoring.xlsx
+- Selected opportunity file: docs/selected-opportunity.md
+- GitHub issue screenshot: [Insert Screenshot]
+- Commit link: [Insert Commit Link]
+### Plan for Lab 03
+The team will prepare interview and survey questions for RSU students, especially freshmen and international students. We will collect evidence about difficulties in campus navigation and information accessibility to validate the problem and identify the most valuable MVP features.
