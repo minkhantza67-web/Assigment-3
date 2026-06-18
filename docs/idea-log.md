@@ -50,3 +50,22 @@ HTML, CSS, JavaScript, Bootstrap, PHP/Laravel, MySQL, Google Maps API, Firebase 
 
 ### Why This is Suitable
 The project solves a real problem experienced by students and can be developed as a web-based MVP within one semester using existing AI and web technologies.
+
+## Idea 3: Student Second-Hand Marketplace Platform
+### Problem Area
+Students frequently own textbooks, electronics, furniture, dormitory supplies, and other items that become unnecessary after a semester or academic year. Existing marketplaces are often cluttered with non-student users, making transactions less trustworthy, while campus-specific buying and selling opportunities remain fragmented across multiple social media platforms.
+
+### Target Users
+University and college students, graduating students, exchange students, and dormitory residents.
+
+### Current Alternative
+Facebook Marketplace, campus Facebook groups, online classified websites, bulletin boards, and peer-to-peer social media transactions.
+
+### Proposed IT Solution
+Student Second-Hand Marketplace Platform designed exclusively for verified students. The system enables users to create listings, browse categorized products, negotiate through chat, save favorite items, rate sellers, and track transactions. Advanced features may include recommendation systems, smart search and filtering, student verification, fraud reporting, item condition scoring, price comparison, and campus-specific marketplace communities.
+
+### Possible Technology
+HTML, CSS, JavaScript, Bootstrap, PHP/Laravel, MySQL, Cloudinary/Image Upload API, Firebase Chat API (optional).
+
+### Why This is Suitable
+The project solves a real problem experienced by students and can be developed as a web-based MVP within one semester using existing AI and web technologies.
