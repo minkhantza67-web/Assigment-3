@@ -28,7 +28,7 @@ An AI-powered campus chatbot that allows users to upload a photo of a campus bui
 ### Why This is Suitable
 The project solves a real problem experienced by students and can be developed as a web-based MVP within one semester using existing AI and web technologies.
 
-## Idea 1: 
+## Idea 1: Student Roommate Matching & Housing Platform
 
 ### Problem Area
 
