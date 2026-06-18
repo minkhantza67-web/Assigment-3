@@ -28,8 +28,6 @@ An AI-powered campus chatbot that allows users to upload a photo of a campus bui
 ### Why This is Suitable
 The project solves a real problem experienced by students and can be developed as a web-based MVP within one semester using existing AI and web technologies.
 
-# Initial IT Venture Idea Log
-
 ## Idea 1: RSU Campus Buddy (Smart Campus Chatbot for Student Services with Image Recognition)
 
 ### Problem Area
