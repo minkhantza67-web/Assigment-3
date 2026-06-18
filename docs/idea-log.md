@@ -26,7 +26,9 @@ An AI-powered campus chatbot that allows users to upload a photo of a campus bui
 - Responsive Web Application
 
 ### Why This is Suitable
-The project solves a real problem experienced by students and can be developed as a web-based MVP within one semester using existing AI and web technologies.
+RSU Campus Buddy addresses a real problem experienced by students, especially freshmen, international students, and campus visitors who often struggle to locate buildings and access campus information. The project combines image recognition and chatbot technology to provide a unique and innovative solution that improves the campus experience.
+The MVP can be developed within one semester using web technologies such as HTML, CSS, JavaScript, and existing image recognition APIs. Core features, including building identification, information display, and chatbot interaction, can be implemented without requiring advanced hardware, IoT devices, or complex cybersecurity systems.
+Additionally, the project directly benefits the RSU community, making it easier to validate through surveys and interviews with actual students. This gives the team access to real users and meaningful feedback throughout the development process
 
 ## Idea 2: Student Roommate Matching & Housing Platform
 
@@ -49,7 +51,7 @@ Student Roommate Matching & Housing Platform that combines room listings with a 
 HTML, CSS, JavaScript, Bootstrap, PHP/Laravel, MySQL, Google Maps API, Firebase Chat API (optional).
 
 ### Why This is Suitable
-
+The Student Roommate Matching & Housing Platform addresses a common challenge faced by university students, especially freshmen and international students. The platform can be developed as a web-based MVP using existing web development technologies and a simple compatibility scoring system. Core features such as user profiles, preference questionnaires, roommate matching, and room listings can be prototyped within one semester without requiring advanced AI or complex infrastructure.
 
 ## Idea 3: Student Second-Hand Marketplace Platform
 ### Problem Area
@@ -68,3 +70,4 @@ Student Second-Hand Marketplace Platform designed exclusively for verified stude
 HTML, CSS, JavaScript, Bootstrap, PHP/Laravel, MySQL, Cloudinary/Image Upload API, Firebase Chat API (optional).
 
 ### Why This is Suitable
+The Student Second-Hand Marketplace Platform solves a practical problem experienced by many students who want to buy or sell used items at affordable prices. The project can be developed as a web-based MVP with essential features such as product listings, search, categories, user accounts, and messaging. The platform is technically feasible within one semester and allows the team to apply database management, web development, and user experience design skills.
